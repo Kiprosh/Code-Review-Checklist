@@ -152,4 +152,8 @@ To review the code effectively with minimal time spent, here we will be defining
 
 - https://www.codementor.io/blog/code-review-checklist-76q7ovkaqj	
 - https://matthewpaulmoore.com/post/5190436725/ruby-on-rails-code-quality-checklist
-- https://medium.com/palantir/code-review-best-practices-19e02780015f	
+- https://medium.com/palantir/code-review-best-practices-19e02780015f
+
+## Credits
+
+Thanks to [Swati Jadhav](https://github.com/swatijadhav) for prepearing this Code Review Checklist.
