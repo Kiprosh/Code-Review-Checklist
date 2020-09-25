@@ -150,6 +150,6 @@ To review the code effectively with minimal time spent, here we will be defining
 
 ## REFERENCES:
 
-https://www.codementor.io/blog/code-review-checklist-76q7ovkaqj	
-https://matthewpaulmoore.com/post/5190436725/ruby-on-rails-code-quality-checklist
-https://medium.com/palantir/code-review-best-practices-19e02780015f	
+- https://www.codementor.io/blog/code-review-checklist-76q7ovkaqj	
+- https://matthewpaulmoore.com/post/5190436725/ruby-on-rails-code-quality-checklist
+- https://medium.com/palantir/code-review-best-practices-19e02780015f	
