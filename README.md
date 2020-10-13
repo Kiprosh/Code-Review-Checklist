@@ -31,6 +31,8 @@
 
 General code review will include a generalized code review that will take care of how well the code is written. This step will help us to maintain clean code irrespective of the number of developers who are updating code.
 
+We are using [rubocop](https://github.com/rubocop-hq/rubocop), [bullet](https://github.com/flyerhzm/bullet) gems to verify coding standards on local and we also integrated [Code Climate](https://codeclimate.com/) to check the code quality of raised PR's. 
+ 
 - Style Guide Check
   - Ruby StyleGuide https://github.com/airbnb/ruby
   - Javascript StyleGuide https://github.com/airbnb/javascript	
