@@ -148,7 +148,7 @@ To review the code effectively with minimal time spent, here we will be defining
     - After new-changes, whether it affects existing test-cases or any other areas, those are handled or not.
 
 ## FLOW CHART
-![Code Review Flowchart](https://github.com/sampatbadhe/Code-Review-Checklist/blob/master/Code%20Review%20Workflow.jpeg)
+![Code Review Flowchart](https://github.com/Kiprosh/Code-Review-Checklist/blob/master/Code%20Review%20Workflow.jpeg)
 
 ## REFERENCES:
 
